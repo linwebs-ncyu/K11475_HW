@@ -1,6 +1,7 @@
 import pickle
 import os
 
+
 class Test(object):
     def __init__(self):
         self.a = 1
